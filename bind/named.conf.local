@@ -1,0 +1,4 @@
+zone "yesus_lucas.com" {
+    type master;
+    file "/etc/bind/db.yesus_lucas.com";
+};
